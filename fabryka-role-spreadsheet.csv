@@ -1,0 +1,18 @@
+Kategoria;Pozycja;Osoba / produkt;Szczegoly;Link
+MANAGEMENT;Founder / lead;Kacper Wikiel;wizja + zasoby + infra;
+MANAGEMENT;COO;Arek Slota;koordynacja + operacje;
+MANAGEMENT;COO;Dawid Majewski;infra + training + Pollock;https://huggingface.co/dawidmajewski
+MANAGEMENT;COO;Piotr Rybarczyk;(zakres - uzupelni Arek);
+BUILDER;dane / HF;Piotr Styla;datasety polish-dynaword (plwiki + Wiadomosci Statystyczne + ICM + ROCK + cultural guides);https://huggingface.co/PiotrSty
+BUILDER;dane / HF;Pawel Puzio;datasety + PII masking;https://huggingface.co/ppuzio
+BUILDER;dane / HF;Bartek Kobylinski;datasety;https://huggingface.co/bartoszkobylinski1
+BUILDER;dane / HF;Dawid Majewski;Pollock + datasety + infra;https://huggingface.co/dawidmajewski
+BUILDER;dane / HF;Katarzyna Majzel-Pospiech;GoLLeM-45M-PL + tokenizery;https://huggingface.co/KateMajzel
+PRODUKT;model;GoLLeM v4 250M PL;polski model bazowy;https://huggingface.co/SlayerLab/gollem-v4-250m-pl
+PRODUKT;model;GoLLeM-110M-PL v3;polski model;https://huggingface.co/SlayerLab/GoLLeM-110M-PL-v3
+PRODUKT;model;GoLLeM-45M-PL;polski model;https://huggingface.co/SlayerLab/GoLLeM-45M-PL
+PRODUKT;model;Pollock mini-LM 125M;polski model;https://huggingface.co/SlayerLab/pollock-mini-lm-125m
+PRODUKT;dataset;polish-dynaword;polski korpus pretrain;https://huggingface.co/datasets/SlayerLab/polish-dynaword
+PRODUKT;dataset;gollem-corpus-16b-pl;korpus 16B PL;https://huggingface.co/datasets/SlayerLab/gollem-corpus-16b-pl
+PRODUKT;benchmark;Probierz;kontaminacyjnie czyste benchmarki PL;https://github.com/slayerlabs/Probierz
+PRODUKT;leaderboard;track.fabryka.ai;publiczny ranking polskich modeli;https://track.fabryka.ai
